@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CWorks",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Animal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Animal-Debug-2aba4765bac0c231ad62.json",
+					"name" : "Animal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StuInherit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StuInherit-Debug-71e7859ea4a7ab016cf1.json",
+					"name" : "StuInherit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StuLambda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StuLambda-Debug-83d67c470bec5ce6f2c4.json",
+					"name" : "StuLambda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StuStatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StuStatic-Debug-7fd1897e4fb5d9d63b73.json",
+					"name" : "StuStatic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/@DevCode/Cpp/CWorks/cmake-build-debug",
+		"source" : "D:/Code/@DevCode/Cpp/CWorks"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
